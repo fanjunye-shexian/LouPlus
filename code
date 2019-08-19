@@ -1,9 +1,13 @@
+mkdir Demo
+cd Demo
+gedit README.md
+git init//put a existing folder in the control of git
+git add
 git config --global user.name "ejunyfa"
-git config --global user.email "fanjunye2007@126.com"
+git config --global user.email "fanjunye2007@126.com"//config name and email before git commit
 git commit -m "first commit"
 git remote add origin https://github.com/fanjunye-shexian/Demo.git
 git push origin master
-
 
 git clone https://github.com/fanjunye-shexian/LouPlus.git
 
