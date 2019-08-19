@@ -1,0 +1,9 @@
+git config --global user.name "ejunyfa"
+git config --global user.email "fanjunye2007@126.com"
+git commit -m "first commit"
+git remote add origin https://github.com/fanjunye-shexian/Demo.git
+git push origin master
+
+
+git clone https://github.com/fanjunye-shexian/LouPlus.git
+
